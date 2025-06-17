@@ -1,7 +1,7 @@
 # 🚀 DevOps Project – Day 1: Setting Up a Web App in the Cloud
 
 ## 🔧 Project Overview  
-Today marks **Day 1** of my DevOps journey, where I started laying the foundation for a CI/CD pipeline. The main task involved setting up a Java web application inside an EC2 instance using Maven, Java, and Visual Studio Code.
+Today, I started a DevOps project by creating a Java-based web app hosted on an EC2 instance. This forms the foundation for a CI/CD pipeline I'll be building over the course of 7 days.
 
 ---
 
@@ -23,15 +23,25 @@ Today marks **Day 1** of my DevOps journey, where I started laying the foundatio
 
 ---
 
-## 📸 Screenshots  
-### 1. Project1.pem Key File Location  
-![Key File Screenshot](./assets/Screenshot_2025-06-17_135809.png)
+## Screenshots
 
-### 2. Terminal Permissions Configuration  
-![Terminal Commands Screenshot](./assets/Screenshot_2025-06-17_154650.png)
+###  PEM File Location
+![PEM File](./screenshots/pem-file.png)
 
-### 3. VS Code Remote Explorer View  
-![VS Code Folder Structure](./assets/Screenshot_2025-06-17_180733.png)
+###   Permission Setup in Terminal
+![Permissions](./screenshots/terminal-permissions.png)
+
+###   Project Folder in VS Code
+![VS Code Project](./screenshots/vscode-explore.png)
+
+###   Index.jsp Code
+![Index.jsp Code](./screenshots/index.jsp.png)
+
+###   SSH Connection Via Terminal
+![SSH Connection Via Terminal](./screenshots/terminal-connection.png)
+
+###   Java Installation On EC2 Instance
+![Java Istallation](./screenshots/java-installation.png)
 
 ---
 
