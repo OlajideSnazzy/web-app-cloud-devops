@@ -26,7 +26,7 @@ Today, I started a DevOps project by creating a Java-based web app hosted on an 
 ## Screenshots
 
 ###  PEM File Location
-![PEM File](./Day 1/Screenshots/pem-file.png)  
+![PEM File](./Day%201/Screenshots/pem-file.png)  
 
 ###   Permission Setup in Terminal
 ![Permissions](./screenshots/terminal-permissions.png)
