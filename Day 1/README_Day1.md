@@ -26,22 +26,22 @@ Today, I started a DevOps project by creating a Java-based web app hosted on an 
 ## Screenshots
 
 ###  PEM File Location
-![PEM File](./Day%201/Screenshots/pem-file.png)  
+![PEM File](Screenshots/pem-file.png)  
 
 ###   Permission Setup in Terminal
-![Permissions](./screenshots/terminal-permissions.png)
+![Permissions](Screenshots/terminal-permissions.png)
 
 ###   Project Folder in VS Code
-![VS Code Project](./screenshots/vscode-explore.png)
+![VS Code Project](Screenshots/vscode-explore.png)
 
 ###   Index.jsp Code
-![Index.jsp Code](./screenshots/index.jsp.png)
+![Index.jsp Code](Screenshots/index.jsp.png)
 
 ###   SSH Connection Via Terminal
-![SSH Connection Via Terminal](./screenshots/terminal-connection.png)
+![SSH Connection Via Terminal](Screenshots/terminal-connection.png)
 
 ###   Java Installation On EC2 Instance
-![Java Istallation](./screenshots/java-installation.png)
+![Java Istallation](Screenshots/java-installation.png)
 
 ---
 
