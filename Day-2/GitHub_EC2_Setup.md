@@ -4,7 +4,7 @@
 ## 1. Installing Git
 
 In this step, I’ll be installing Git on the EC2 instance (Linux server).  
-**Git** is a version control tool used by developers to track and manage changes made to code — identifying who made what changes and when. It’s essential for tasks like version control, which helps teams collaborate more efficiently on projects.
+**Git** is a version control tool used by developers to track and manage changes made to code identifying who made what changes and when. It’s essential for tasks like version control, which helps teams collaborate more efficiently on projects.
 
 I installed Git using the following commands:
 
@@ -20,7 +20,7 @@ sudo dnf install git -y
 Next, I set up a **GitHub account** and created a **GitHub repository**.  
 GitHub is a cloud-based platform that allows developers to store and share code online. It works with Git to manage a project’s version history.
 
-A **Git repository (repo)** on GitHub is essentially a folder that contains all the files related to a project, along with a record of all changes made to those files. Since GitHub is cloud-based, repositories can be accessed from anywhere.
+A **Git repository (repo)** on GitHub is essentially a folder that contains all the files related to a project, along with a record of all changes made to those files. Since GitHub is cloud based, repositories can be accessed from anywhere.
 
 ---
 
