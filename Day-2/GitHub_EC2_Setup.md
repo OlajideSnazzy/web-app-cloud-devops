@@ -15,6 +15,11 @@ sudo dnf install git -y
 
 ---
 
+![Git Init](images/installing-git.png)
+![Git Init](images/installing-git2.png)
+
+---
+
 ## 2. Setting Up GitHub and Creating a Repository
 
 Next, I set up a **GitHub account** and created a **GitHub repository**.  
