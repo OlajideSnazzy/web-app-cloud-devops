@@ -97,6 +97,10 @@ This displayed my configured username, email, and the timestamp of the last comm
 
 ---
 
+![Git Init](images/git-log.png)
+
+---
+
 ## 6. Making Changes and Pushing to GitHub
 
 To test Git in action, I made changes to the `index.jsp` file in my project. Initially, the changes didn’t appear in GitHub because I forgot to commit them.
