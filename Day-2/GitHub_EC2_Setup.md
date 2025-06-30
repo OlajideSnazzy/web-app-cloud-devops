@@ -100,7 +100,7 @@ git log
 This displayed my configured username, email, and the timestamp of the last commit.
 
 ---
-
+![Git Init](ec2-ssh-connection2.png)
 ![Git Init](images/git-log.png)
 
 ---
