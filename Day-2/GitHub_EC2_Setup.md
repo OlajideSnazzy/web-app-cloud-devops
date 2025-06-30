@@ -44,6 +44,10 @@ In Git, a **branch** is a copy of the repository used to make changes independen
 
 ---
 
+![Git Init](images/git-init.png)
+
+---
+
 ## 4. Staging and Committing Code
 
 The first Git command I ran was:
