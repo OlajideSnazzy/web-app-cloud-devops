@@ -29,6 +29,10 @@ A **Git repository (repo)** on GitHub is essentially a folder that contains all 
 
 ---
 
+![Git Init](images/github-repo.png)
+
+---
+
 ## 3. Initializing a Local Git Repository
 
 In this stage, I set up a **local Git repository** inside my web app project folder on the EC2 instance. This allows me to connect the local project with the remote GitHub repository.
