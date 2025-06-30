@@ -111,4 +111,4 @@ git push
 
 — the changes were staged, committed, and successfully pushed to GitHub.
 
-![Git Init](change-diff.png)
+![Git Init](images/change-diff.png)
